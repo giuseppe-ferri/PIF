@@ -10,53 +10,35 @@
 - 
 
 ## **Critérios de aceitação:**
-    1.
-        1.1.
-        
-        1.2.
-        
-        1.3.
-        
+    1. 
+        1.1. 
+        1.2. 
+        1.3. 
     2. 
         2.1. 
-        
-        2.2.
-        
-        2.3.
-        
+        2.2. 
+        2.3. 
     3. 
         3.1. 
-        
         3.2. 
-        
-        3.3. 
-        
+        3.2. 
     4. 
         4.1. 
-        
         4.2. 
-        
         4.3. 
-        
     5. 
-        5.1.
-        
-        5.2.
-        
-        5.3.
-        
-    6.
+        5.1. 
+        5.2. 
+        5.3. 
+    6. 
         6.1.
-        
         6.2.
-        
-        6.3.
-        
+        6.3
 
 ## **Protótipo / UI Design**:
     Responsável: Thyago Yoshida / Pedro Rocha da Silva Guedes
     
-**Link para o protótipo:** [Figma](https://url.com.br/)
+**Link para o protótipo:** [Figma](https://www.figma.com/design/3IEKNX0N1ZoTbEZKxDIv6W/Giuseppe-Ferri's-team-library?t=cgAsHCThAqKPiv5w-1)
 
 - Implementar todos os ***requisitos*** na tela de cadastro.
 
@@ -79,7 +61,7 @@
 ### 3. **Integração com SQL Server**  
     Responsável: Giuseppe Ferri
 
-**Link para o código:** [GitHub](https://url.com.br/)
+**Link para o código:** [GitHub](https://github.com/giuseppe-ferri/PIF)
 
 - Criar a tabela ***TABELA***.
 - Integrar com o Back-End e gravar os dados essenciais dos ***Requisitos*** na tabela
