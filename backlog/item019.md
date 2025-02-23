@@ -36,7 +36,7 @@
         6.3
 
 ## **Protótipo / UI Design**:
-    Responsável: Thyago Yoshida / Pedro Rocha da Silva Guedes
+    Responsável: João Vitor da Costa
     
 **Link para o protótipo:** [Figma](https://www.figma.com/design/3IEKNX0N1ZoTbEZKxDIv6W/Giuseppe-Ferri's-team-library?t=cgAsHCThAqKPiv5w-1)
 
@@ -44,24 +44,18 @@
 
 ## **Subtarefas**:
 ### 1. **Front-End**
-    Responsável: João Vitor da Costa
-    
-**Link para o código:** [GitHub](https://url.com.br/)
+    Responsável: [João Vitor da Costa](https://url.com.br/)
 
 - Desenvolver a tela seguindo o ***protótipo no Figma***.
 
 ### 2. **Back-End**
-    Responsável: Wesley Henrique Dias de Melo
-
-**Link para o código:** [GitHub](https://url.com.br/)
+    Responsável: [Wesley Henrique Dias de Melo](https://github.com/Wesleyhdias)
 
 - Integrar com o Front-End.
 - Implementar todos os ***Critérios de aceitação***.
 
 ### 3. **Integração com SQL Server**  
-    Responsável: Giuseppe Ferri
-
-**Link para o código:** [GitHub](https://github.com/giuseppe-ferri/PIF)
+    Responsável: [Giuseppe Ferri](https://github.com/giuseppe-ferri)
 
 - Criar a tabela ***TABELA***.
 - Integrar com o Back-End e gravar os dados essenciais dos ***Requisitos*** na tabela
@@ -76,7 +70,7 @@
 - 1 / 2 / 3 / 4 / 5 story points
 
 ## **Prioridade**:
-- Baixa / Muito baixa / Normal / Alta / Muito Alta
+- Muito Baixa / Baixa / Normal / Alta / Muito Alta
 
 ## **Status**:
 - Planejado / Não Planejado
