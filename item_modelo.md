@@ -31,8 +31,9 @@ Formulário contendo os dados pessoais do usuário (aluno), como listado abaixo:
 		5.1. Garantir que o CEP utilizado é válido.
 	6. Permitir a criação da conta somente se o usuário concordar com os termos de uso do aplicativo.
 	7. Após concluir o cadastro, será atribuído a cada usuário um ID único. Esse ID será um número inteiro que começa em 1 e será incrementado automaticamente em 1 a cada novo usuário registrado.
+	8. Deve haver logs de erros e acertos.
    
-	8. Ao finalizar o formulário, o sistema gera automaticamente um RA (login) e uma senha provisória, que são enviados para o e-mail do aluno cadastrado.
+	9. Ao finalizar o formulário, o sistema gera automaticamente um RA (login) e uma senha provisória, que são enviados para o e-mail do aluno cadastrado.
       	8.1. Ao logar pela primeira vez, o sistema deverá solicitar o login (RA e senha), digitar nova senha e confirmar nova senha, o sistema deve realizar a autenticação das senhas.
 
 
